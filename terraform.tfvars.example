@@ -1,0 +1,4 @@
+yc_cloud_id  = "b1gnqr37t3ab3ag6b3mt"
+yc_folder_id = "b1gpc89c4is36qrm3d46"
+zone         = "ru-central1-a"
+ssh_public_key = "~/.ssh/id_rsa.pub"
